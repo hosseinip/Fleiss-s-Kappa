@@ -1,4 +1,4 @@
-// in here, we have 3 categories, however, the number of categories can be different
+// In here, we have 3 categories, however, the number of categories can be different
 public class FleissTable
 {
         public FleissTable() { }
